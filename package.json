@@ -1,6 +1,7 @@
 {
-  "name": "avsc",
+  "name": "@kaluza/avsc",
   "version": "5.5.3",
+  "private": true,
   "description": "Avro for JavaScript",
   "homepage": "https://github.com/mtth/avsc",
   "keywords": [
